@@ -21,3 +21,7 @@ Purpose: By SQL, answer some question about business problem in Music Online Ser
 Method: CTE, Join, statistic (average, max, sum...), tracking by time object, clustering country group
 
 Beside these two project is reference projects, which is a part of practise projects
+
+#Update 20/06: 
+- The Excel Dashboard Project (Include: EDA, Pivot Table, Dashboard) 
+- Practise project with R: Build a simple regression (Problem: Among telesale, social-sale and newspaper-sale, which method is bring more revenue for company)
