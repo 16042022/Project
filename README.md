@@ -2,13 +2,14 @@
 DA_Project
 
 This folder contain 2 main project:
-1. EDA with Python: Star War survey
+1. Project: Find the best market to advertise product
  
-Purpose: By the Star War survey data, practise cleaning - transforming and EDA with data, 
-along with considering the episode that team survey mentioned as most populate by some factor: rating by country, age/gender,
-view times by country, age/gender...
+Purpose: Assuming that we're in data analytics team, and required to choose the best market to advertise the product
+Our product is e-learning programming course with 59USD per months
+So, we need to use any tool (we're using Python) to extract some meaningful insights to report our boss
+Because the data we got is a survey, so somewhere we need to use a little descriptive statistic knowledge to keep our way on right track
 
-Method: Pandas (aggregate,...), Seaborn, Matplotlib
+Method: Pandas, Numpy, Seaborn, Matplotlib, Descriptive Statistic
 
 2. EDA with SQL: Answer Business question
 
