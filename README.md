@@ -3,6 +3,7 @@ DA_Project
 
 This folder contain 2 main project:
 1. New project 01/2023: Northwind's store Performance tracking Dashboard (SQL - PowerBI - Power Point/ Presentation)
+
 Purpose: Creating a dashboard to tracking overall performance in Northwind's store from 2014 - 2016
 - Using DAX to render overall performance (Revenue KPIs/ YTD - Last YTD, Revenue by Dimensions fields...)
 - Using SQL query to create specific table - metric (Sum-up revenue, customer's segment, employee's specific performance...) and visulizing in Power BI
