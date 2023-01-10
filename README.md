@@ -20,9 +20,8 @@ Method: CTE, Join, statistic (average, max, sum...), tracking by time object, cl
 
 Refrence Project: Find the best market to advertise product
  
-Purpose: Assuming that we're in data analytics team, and required to choose the best market to advertise the product
-Our product is e-learning programming course with 59USD per months
-So, we need to use any tool (we're using Python) to extract some meaningful insights to report our boss
+Purpose: Assuming that we're in data analytics team, and required to choose the best market to advertise the product.
+Our product is e-learning programming course with 59USD per months, so, we need to use any tool (we're using Python) to extract some meaningful insights to report our boss.
 Because the data we got is a survey, so somewhere we need to use a little descriptive statistic knowledge to keep our way on right track
 
 Method: Pandas, Numpy, Seaborn, Matplotlib, Descriptive Statistic
